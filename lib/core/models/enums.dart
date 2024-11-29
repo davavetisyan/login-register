@@ -1,0 +1,4 @@
+enum AppRoles {
+  teacher,
+  donor,
+}
